@@ -13,4 +13,4 @@ Showing off how [node-media-server](https://www.npmjs.com/package/node-media-ser
 Stream Type : Custom Streaming Server
 URL : rtmp://localhost/live
 Stream key : STREAM_NAME **(change this to what you have in index.html)**
-* navigate to http://localhost:3000/index.html4
+* navigate to http://localhost:3000/index.html
